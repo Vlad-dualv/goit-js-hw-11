@@ -60,3 +60,4 @@ export function hideLoader() {
 export function showLoader() {
     refs.loader.style.display = "block";
 }
+
